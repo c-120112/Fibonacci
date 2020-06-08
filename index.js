@@ -24,3 +24,6 @@ return output
 //Do NOT change any of the code below 👇
 }
 
+output = fibonacciGenerator (n)
+console.log(output)
+
